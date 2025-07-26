@@ -1,0 +1,22 @@
+///////////////////////////////////
+// This file and the images that are distributed with procon
+// will be overwritten during an update. V.1.0
+///////////////////////////////////
+
+
+///////////////////////////////////
+// File information displayed in the Maps area / ingame maps from Dice
+///////////////////////////////////
+file.name=Placeholder
+file.author=Phil_K 
+file.authorwebsite=http://www.phogue.net
+
+// This is so it appears as readonly in procon, but can still be edited via text file for developers.
+file.readonly=true
+
+
+///////////////////////////////////
+// Map backgrounds and points of.Translate.relative to 1024x1024 map and BFBC2.
+///////////////////////////////////
+// Conquest Maps
+///////////////////////////////////
